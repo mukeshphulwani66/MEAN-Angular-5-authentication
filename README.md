@@ -2,6 +2,10 @@
 
 This is mean authentication app created using passport and jsonwebtokens.
 
+## install dependencies
+
+run `npm install` once in current project directory and once in angular-frontend directory.
+
 ## Development server
 
 Run `ng serve` for a dev server in angular-frontend directory. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
